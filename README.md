@@ -1,2 +1,2 @@
-# space-hooter
+# space-shooter
 game
